@@ -21,9 +21,16 @@ public class RPSGameTest {
     }
 
     @Test
-    public void checkWinner_CheckForDraw_Draw() throws Exception {
+    public void checkWinner_CheckForDraw_draw() throws Exception {
         RPSGame testRPSGame = new RPSGame();
         String expected = "draw";
         assertEquals(expected, testRPSGame.checkWinner("paper", "paper"));
+    }
+
+    @Test
+    public void checkEntry_CheckForValidEntry_false() throws Exception {
+        RPSGame testRPSGame = new RPSGame();
+        Boolean expected = false;
+        assertEquals(expected, testRPSGame.checkEntry("hippo"));
     }
 }

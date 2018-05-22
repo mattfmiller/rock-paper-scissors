@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f7c4e620-ac01-4ebc-abac-5b970bee5b3f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/models/RPSGame.java" afterPath="$PROJECT_DIR$/src/main/java/models/RPSGame.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/RPSGameTest.java" afterPath="$PROJECT_DIR$/src/test/java/models/RPSGameTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -21,24 +22,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RPSGame.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RPSGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/models/RPSGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="105">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#141#157#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#220#236#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RPSGameTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RPSGameTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/models/RPSGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="70" lean-forward="false" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
+            <state relative-caret-position="495">
+              <caret line="33" column="64" lean-forward="true" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -353,8 +356,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/RPSGame.java" />
-        <option value="$PROJECT_DIR$/src/test/java/models/RPSGameTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/models/RPSGame.java" />
+        <option value="$PROJECT_DIR$/src/test/java/models/RPSGameTest.java" />
       </list>
     </option>
   </component>
@@ -668,8 +671,8 @@
     <history-entry file="RPSGameTest - 2018.05.22 at 13h 26m 47s.xml">
       <configuration name="RPSGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RPSGameTest_checkWinner_EvaluateWinningOption_player2 - 2018.05.22 at 13h 11m 32s.xml">
-      <configuration name="RPSGameTest.checkWinner_EvaluateWinningOption_player2" configurationId="JUnit" />
+    <history-entry file="RPSGameTest - 2018.05.22 at 13h 32m 13s.xml">
+      <configuration name="RPSGameTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RPSGameTest_checkWinner_EvaluateWinningOption_player2 - 2018.05.22 at 13h 12m 14s.xml">
       <configuration name="RPSGameTest.checkWinner_EvaluateWinningOption_player2" configurationId="JUnit" />
@@ -747,23 +750,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/models/RPSGameTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/RPSGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="70" lean-forward="false" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
+        <state relative-caret-position="105">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#220#236#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/models/RPSGame.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/models/RPSGameTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="495">
+          <caret line="33" column="64" lean-forward="true" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#141#157#0" expanded="true" />
           </folding>
         </state>
       </provider>

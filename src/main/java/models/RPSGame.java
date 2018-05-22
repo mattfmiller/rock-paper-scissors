@@ -4,6 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class RPSGame {
+    public Boolean checkEntry(String playerWord) {
+        return null;
+    }
+
     Map<String, String> playerWordPair = new HashMap<String, String>();
     public String checkWinner(String player1Word, String player2Word) {
         if (player1Word.equals(player2Word)){
