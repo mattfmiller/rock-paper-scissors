@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7c4e620-ac01-4ebc-abac-5b970bee5b3f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/models/RPSGameTest.class" afterPath="$PROJECT_DIR$/out/test/classes/models/RPSGameTest.class" />
       <change beforePath="$PROJECT_DIR$/src/main/java/models/RPSGame.java" afterPath="$PROJECT_DIR$/src/main/java/models/RPSGame.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/models/RPSGameTest.java" afterPath="$PROJECT_DIR$/src/test/java/models/RPSGameTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -24,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RPSGame.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RPSGame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/models/RPSGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            <state relative-caret-position="255">
+              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#141#157#0" expanded="true" />
@@ -37,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RPSGameTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RPSGameTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/models/RPSGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
@@ -662,6 +659,9 @@
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="RPSGameTest - 2018.05.22 at 13h 13m 50s.xml">
+      <configuration name="RPSGameTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="RPSGameTest_checkWinner_EvaluateWinningOption_player2 - 2018.05.22 at 13h 11m 32s.xml">
       <configuration name="RPSGameTest.checkWinner_EvaluateWinningOption_player2" configurationId="JUnit" />
     </history-entry>
@@ -676,9 +676,6 @@
     </history-entry>
     <history-entry file="RPSGameTest_checkWinner_EvaluateWinningOption_player2 - 2018.05.22 at 13h 13m 11s.xml">
       <configuration name="RPSGameTest.checkWinner_EvaluateWinningOption_player2" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="RPSGameTest_checkWinner_PaperBeatsRock_player2 - 2018.05.22 at 13h 05m 45s.xml">
-      <configuration name="RPSGameTest.checkWinner_PaperBeatsRock_player2" configurationId="AndroidJUnit" />
     </history-entry>
     <history-entry file="RPSGameTest_checkWinner_PaperBeatsRock_player2 - 2018.05.22 at 13h 10m 53s.xml">
       <configuration name="RPSGameTest.checkWinner_PaperBeatsRock_player2" configurationId="AndroidJUnit" />
@@ -695,7 +692,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1132" y="104" width="1428" height="1199" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -706,7 +702,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33605072" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33605072" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32246378" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -751,23 +747,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/models/RPSGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#141#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/models/RPSGameTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/RPSGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#141#157#0" expanded="true" />
           </folding>
         </state>
       </provider>
