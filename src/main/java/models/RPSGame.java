@@ -18,7 +18,7 @@ public class RPSGame {
             return "draw";
         } else {
             playerWordPair.put(player2Word, "player2");
-            playerWordPair.put(player1Word, "palyer1");
+            playerWordPair.put(player1Word, "player1");
             if (playerWordPair.containsKey("paper") && playerWordPair.containsKey("rock")) {
                 return playerWordPair.get("paper");
             } else if (playerWordPair.containsKey("scissors") && playerWordPair.containsKey("rock")) {
