@@ -5,7 +5,11 @@ import java.util.Map;
 
 public class RPSGame {
     public Boolean checkEntry(String playerWord) {
-        return null;
+        if(playerWord.equals("paper") || playerWord.equals("rock") || playerWord.equals("scissors")) {
+            return true;
+        } else {
+            return false;
+        }
     }
 
     Map<String, String> playerWordPair = new HashMap<String, String>();
