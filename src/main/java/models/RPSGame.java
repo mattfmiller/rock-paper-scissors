@@ -9,8 +9,6 @@ public class RPSGame {
         playerWordPair.put(player2Word, "player2");
         playerWordPair.put(player1Word, "palyer1");
         return playerWordPair.get("paper");
-
-
     }
 
 
